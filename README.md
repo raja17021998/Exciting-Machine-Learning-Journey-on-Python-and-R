@@ -46,8 +46,10 @@ I have worked on several datasets as provided by my instructor implementing the 
    ** CNN was built only on Python because R's H2O's package Deep Water was under devolopment as of now<br>
    "  For building Deep Learning Modules following libraries and packages were used:<br>
        (.) PYTHON: Keras Library on TENSORFLOW backend<br>
-       (.) R     : H2O Library<br>
-    
+       (.) R     : H2O Library<br><br><br>
+       
+       
+    There are two copies one orignal and one with _wd endings, just due to Windows 8.1 and Linux dual boot working      environmeents    
     
     
    
