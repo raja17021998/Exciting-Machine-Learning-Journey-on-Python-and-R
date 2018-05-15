@@ -48,7 +48,7 @@ I have worked on several datasets as provided by my instructor implementing the 
        (.) PYTHON: Keras Library on TENSORFLOW backend<br>
        (.) R     : H2O Library<br><br><br>
        
- There are two copies one orignal and one with _wd endings, just due to Windows 8.1 and Linux dual boot working environments  
+There are two copies of files one orignal and one with wd endings, just due to Windows 8.1 and Linux dual boot working environments so as to maintain uniformity. wd ending ones were created on Windows.
     
     
    
